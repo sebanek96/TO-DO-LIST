@@ -1,8 +1,15 @@
 .form{
-
+    background-color: white;
+    max-width: 1000px;
 }
 
 .form__header{
-  
+  background-color: white;
+  max-width: 1000px;
     
+}
+
+.form__button{
+    background-color: teal;
+    border-style: none;
 }
