@@ -1,0 +1,38 @@
+.list{
+    background-color: white;
+    padding: 5px 20px;
+    margin-top: 0px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.list__itemText{
+    
+}
+
+.tasks__list--done{
+    text-decoration: line-through;
+}
+
+.tasks__button{
+    background-color: green;
+    height: 40px;
+    width: 40px;
+    border: none;
+    }
+
+.tasks__button--done{
+    background-color: green;
+    height: 40px;
+    width: 40px;
+    border: none;
+}
+
+.tasks__button--remove{
+    background-color: crimson;
+    height: 40px;
+    width: 40px;
+    border: none;
+}
