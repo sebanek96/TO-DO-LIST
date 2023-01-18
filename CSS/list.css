@@ -2,11 +2,10 @@
     background-color: white;
     padding: 5px 20px;
     margin-top: 0px;
+    min-height: 100px;
     list-style-type: none;
     display: flex;
     flex-direction: column;
-
-    
 }
 
 .list__item{
