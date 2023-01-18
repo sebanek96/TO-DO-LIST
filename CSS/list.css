@@ -19,6 +19,14 @@
 .list__itemText{
     display: flex;
     align-items: center;
+    margin-right: auto;
+}
+
+@media (max-width:767px) {
+    .list__itemText {
+        max-width: 180px;
+        margin: auto;
+    }
 }
 
 .tasks__list--done{
@@ -30,6 +38,9 @@
     height: 40px;
     width: 40px;
     border: none;
+    margin-right: 15px;
+    flex-shrink: 0;
+    align-self: center;
     }
 
 .tasks__button--done{
@@ -44,4 +55,7 @@
     height: 40px;
     width: 40px;
     border: none;
+    margin-left: 15px;
+    flex-shrink: 0;
+    align-self: center;
 }

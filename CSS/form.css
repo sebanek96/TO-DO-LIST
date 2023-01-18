@@ -16,10 +16,18 @@
 .form__input {
     flex-grow: 1;
     padding: 10px;
+    max-width: 790px;
+}
+
+@media (max-width:767px) {
+    .form__input {
+     margin-bottom: 5px;   
+    }
 }
 
 .form__button {
     background-color: teal;
     border-style: none;
     padding: 10px;
+    flex-shrink: 0;
 }
