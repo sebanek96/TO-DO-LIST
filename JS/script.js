@@ -19,6 +19,11 @@
         render();
     };
 
+    const clearAndFocusInput = (newTask) => {
+        newTask.value = "";
+        newTask.focus();
+    };
+
     const removeTask = (taskIndex) => {
         tasks.splice(taskIndex, 1);
         render();
@@ -75,13 +80,18 @@
     const onFormSubmit = (event) => {
         event.preventDefault();
 
+        const newTask = document.querySelector(".js-newTask");
         const newTaskContent = document.querySelector(".js-newTask").value.trim();
 
         if (newTaskContent === "") {
+            clearAndFocusInput(newTask);
             return;
+
         }
 
         addNewTask(newTaskContent);
+        clearAndFocusInput(newTask);
+        
     };
 
     const init = () => {
@@ -90,6 +100,7 @@
         const form = document.querySelector(".js-form");
 
         form.addEventListener("submit", onFormSubmit);
+
     };
 
     init();
