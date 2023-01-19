@@ -10,12 +10,4 @@
     margin-top: 15px;
     padding: 20px;
     margin-bottom: 2px;
-    display: flex;
-    justify-content: flex-start;
-  }
-
-  .section__header--tasksList{
-    background-color: white;
-    padding: 5px 10px;
-    margin-bottom: 2px;
   }

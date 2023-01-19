@@ -29,11 +29,11 @@
     }
 }
 
-.tasks__list--done{
+.list__task--done{
     text-decoration: line-through;
 }
 
-.tasks__button{
+.list__button{
     background-color: green;
     height: 40px;
     width: 40px;
@@ -43,14 +43,14 @@
     align-self: center;
     }
 
-.tasks__button--done{
+.list__button--done{
     background-color: green;
     height: 40px;
     width: 40px;
     border: none;
 }
 
-.tasks__button--remove{
+.list__button--remove{
     background-color: crimson;
     height: 40px;
     width: 40px;
