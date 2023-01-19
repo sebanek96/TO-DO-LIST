@@ -1,6 +1,6 @@
 # TO-DO-LIST
 
-[link](https://github.com/sebanek96/TO-DO-LIST/blob/master/media/animation.gif?raw=true)
+[a link](https://github.com/sebanek96/TO-DO-LIST/blob/master/media/animation.gif?raw=true)
 
 # DEMO
 
