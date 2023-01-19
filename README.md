@@ -4,7 +4,7 @@
 
 ## Mobile view
 
-![Mobile View](//media/mobileview.png)
+![](https://github.com/sebanek96/TO-DO-LIST/blob/master/media/mobileview.png?raw=true)
 
 # DEMO
 
