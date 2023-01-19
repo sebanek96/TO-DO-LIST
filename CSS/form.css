@@ -16,7 +16,7 @@
 .form__input {
     flex-grow: 1;
     padding: 10px;
-    max-width: 790px;
+    max-width: 760px;
 }
 
 @media (max-width:767px) {
