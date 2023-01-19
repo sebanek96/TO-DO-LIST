@@ -4,7 +4,7 @@
 
 # DEMO
 
-[a link](https://sebanek96.github.io/TO-DO-LIST/)
+https://sebanek96.github.io/TO-DO-LIST/)
 
 # Description
 
