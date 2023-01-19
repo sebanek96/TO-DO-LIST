@@ -1,10 +1,10 @@
 # TO-DO-LIST
 
-[a link](https://github.com/sebanek96/TO-DO-LIST/blob/master/media/animation.gif?raw=true)
+![](https://github.com/sebanek96/TO-DO-LIST/blob/master/media/animation.gif?raw=true)
 
 # DEMO
 
-![](https://sebanek96.github.io/TO-DO-LIST/)
+[a link](https://sebanek96.github.io/TO-DO-LIST/)
 
 # Description
 
