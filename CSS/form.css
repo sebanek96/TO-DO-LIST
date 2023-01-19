@@ -17,15 +17,18 @@
     flex-grow: 1;
     padding: 10px;
     max-width: 760px;
+    margin-right: 20px;
 }
 
 @media (max-width:767px) {
     .form__input {
-     margin-bottom: 15px;   
+     margin-bottom: 15px;
+     margin-right: 0px;   
     }
 }
 
 .form__button {
+    color: white;
     background-color: teal;
     border-style: none;
     padding: 10px;

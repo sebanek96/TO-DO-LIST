@@ -35,8 +35,8 @@
 
 .list__button{
     background-color: green;
-    height: 40px;
-    width: 40px;
+    height: 35px;
+    width: 35px;
     border: none;
     margin-right: 15px;
     flex-shrink: 0;
@@ -45,17 +45,23 @@
 
 .list__button--done{
     background-color: green;
-    height: 40px;
-    width: 40px;
+    height: 35px;
+    width: 35px;
     border: none;
 }
 
+.list__button:active{
+    border: 1px solid black;
+}
+
+
 .list__button--remove{
     background-color: crimson;
-    height: 40px;
-    width: 40px;
+    height: 35px;
+    width: 35px;
     border: none;
     margin-left: 15px;
     flex-shrink: 0;
     align-self: center;
 }
+
