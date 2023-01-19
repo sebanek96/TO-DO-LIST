@@ -2,6 +2,10 @@
 
 ![](https://github.com/sebanek96/TO-DO-LIST/blob/master/media/animation.gif?raw=true)
 
+## Mobile view
+
+![Mobile View](//media/mobileview.png)
+
 # DEMO
 
 https://sebanek96.github.io/TO-DO-LIST/
