@@ -33,4 +33,9 @@
     border-style: none;
     padding: 10px;
     flex-shrink: 0;
+    cursor: pointer;
+}
+
+.form__button:hover{
+    background-color: rgb(0, 172, 172);
 }
