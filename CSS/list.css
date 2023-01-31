@@ -42,6 +42,7 @@
     flex-shrink: 0;
     align-self: center;
     cursor: pointer;
+    transition: 0.3s;
     }
 
 .list__button--done{
@@ -68,6 +69,7 @@
     flex-shrink: 0;
     align-self: center;
     cursor: pointer;
+    transition: 0.3s;
 }
 
 .list__button--remove{

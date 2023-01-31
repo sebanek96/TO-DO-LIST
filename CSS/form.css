@@ -33,9 +33,10 @@
     border-style: none;
     padding: 10px;
     flex-shrink: 0;
-    cursor: pointer;
+    transition: 0.3s;
 }
 
 .form__button:hover{
     background-color: rgb(0, 172, 172);
+    transform: scale(1.1);
 }
